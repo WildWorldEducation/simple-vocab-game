@@ -1,4 +1,4 @@
-# Mulstiple-chouce Vocab Minigame
+# Multiple-chouce Vocab Minigame
 
 [Playable version](http://version-four.s3-website-us-east-1.amazonaws.com/)
 
